@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Nichole"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ProfileImage.jpeg"
   bio              : "오랜만이에요! 히히"
   location         : "South Korea"
   email            : "longtypeno6@gmail.com"
