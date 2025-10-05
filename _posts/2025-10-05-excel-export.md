@@ -1,6 +1,12 @@
-# 엑셀 다운로드시 앞에 작은따옴표(’) 붙는 문제
+---
+layout: single
+title:  "아웃시스템즈 엑셀 다운로드시 앞에 작은따옴표(’) 붙는 문제."
+categories: outsystems
+tags: [outsystems, excelExport]
+toc: true
+---
 
-![image.png](%EC%97%91%EC%85%80%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%EC%8B%9C%20%EC%95%9E%EC%97%90%20%EC%9E%91%EC%9D%80%EB%94%B0%EC%98%B4%ED%91%9C(%E2%80%99)%20%EB%B6%99%EB%8A%94%20%EB%AC%B8%EC%A0%9C%2027a7a2d7045680e9b9f0d2fb423cb2e8/image.png)
+![image.png](/image.png)
 
 - 참고 링크
     - https://www.outsystems.com/forums/discussion/104171/recordlisttoexcel-adds-hidden-apostrophe-when-exporting-values-to-excel/
